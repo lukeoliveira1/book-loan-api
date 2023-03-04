@@ -1,4 +1,4 @@
-# book-sale-api
+# book-loan-api
 
 An API to manage a library.
 
